@@ -1,0 +1,10 @@
+.sebm-google-map-container {
+  height: 400px;
+}
+.map{
+    padding: 5px;
+    border: 1px #ccc solid;
+}
+.delete{
+    color:red;
+}
